@@ -140,7 +140,8 @@ print(5)
 # print(text[0:len(text):6]) #от 0 до конца строки с шагом 6
 # print(text[::6]) #по умолчанию от начала для конца
 
-
+# text = text[2:5] + text[-1] + text[:2]
+# print(text)
 
 
 
